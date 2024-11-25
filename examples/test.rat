@@ -1,0 +1,5 @@
+
+val i = 3
+var j = 3
+val x = i + j
+print(x)
